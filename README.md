@@ -1,6 +1,12 @@
 # reddit-clone-app-list
 A list of apps I could use in a reddit clone
 
+# Pinax-bookmarks
+
+https://github.com/pinax/django-bookmarks
+
+For bookmarking posts and comments
+
 # Pinax-badges
 
 https://github.com/pinax/pinax-badges
