@@ -21,3 +21,10 @@ Need to add firends and only friend to firend messaging.
 
 Need to add ajax auto-complete for firends.
 
+# Pinax-referrals
+
+https://github.com/pinax/pinax-referrals
+
+For tracking outgoing links from site.
+
+Like out.reddit.com and how google does tracking of clicks to links.
