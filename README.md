@@ -1,6 +1,12 @@
 # reddit-clone-app-list
 A list of apps I could use in a reddit clone
 
+# django-flag
+
+https://github.com/pinax/django-flag
+
+For flagging spam and offensive content
+
 # Pinax-bookmarks
 
 https://github.com/pinax/django-bookmarks
