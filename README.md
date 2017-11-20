@@ -50,7 +50,7 @@ For tracking outgoing links from site.
 Like out.reddit.com and how google does tracking of clicks to links.
 
 
-# Pinax-weblytics
+# Pinax-webanalytics
 
 https://github.com/pinax/pinax-webanalytics
 
