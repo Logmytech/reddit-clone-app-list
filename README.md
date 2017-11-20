@@ -7,7 +7,5 @@ https://github.com/pinax/pinax-badges
 
 For Stackoverflow and Askbot like badges.
 
-Example badges.
-
-Century for 100+ Karma
+Example badges: Century for 100+ Karma
 
