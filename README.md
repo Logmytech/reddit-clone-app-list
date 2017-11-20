@@ -7,6 +7,14 @@ https://github.com/pinax/django-bookmarks
 
 For bookmarking posts and comments
 
+# Pinax-firends
+
+https://github.com/pinax/django-friends
+
+For firendship requests and more.
+
+Need to integrate with pinax-messages
+
 # Pinax-badges
 
 https://github.com/pinax/pinax-badges
