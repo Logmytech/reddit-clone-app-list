@@ -13,7 +13,7 @@ https://github.com/pinax/django-bookmarks
 
 For allowing bookmarking posts and comments
 
-# Pinax-firends
+# Pinax-friends
 
 https://github.com/pinax/django-friends
 
